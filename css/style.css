@@ -1,0 +1,49 @@
+* {
+        margin: 0;
+        padding: 0;
+}
+
+html,
+body {
+        margin: 0;
+        padding: 0;
+}
+
+
+
+.img-outline {
+        outline: 0.5rem solid orange;
+        padding: 1rem;
+}
+
+.img-outline2 {
+        outline: 0.5rem solid green;
+        padding: 1rem;
+}
+
+.headline {
+        color: 	#483D8B;
+}
+
+.headline1 {
+        color: 	#C5B358;
+}
+
+.more-button {
+        color: 	#C5B358;
+        font-size: 1.5rem;
+        text-decoration: none;
+}
+
+.about-text {
+        margin-bottom: 1.5rem;
+}
+
+.img-break {
+        margin-top: 10rem;
+        background-image: url(../img/store1.jpg);
+        background-size: cover;
+        height: 60vh;
+        width: 100vw;
+        background-position: center top;
+}
